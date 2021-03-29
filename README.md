@@ -1,6 +1,6 @@
-# Software Quality Assurance Handbook
+# Project Plan
 
-### Content Owners:
+## Content Owners:
 
 <br>
 
@@ -11,11 +11,23 @@
 
 <br>
 
-Link to Assignemt: https://1drv.ms/w/s!Ap4JPbfie2zTg7I12fy6V3s3fmqqVw?e=MxFjr1
+---
+## Rules:
 
 <br>
 
-### GitHub / GitFlow Steps:
+* Users Working on a Section together are to "Approve" each others content before "Merging".
+* Comments / Feedback is to be added on "Pull Requests" and also when "Committing" or "Reviewing Changes" before "Approval"
+
+
+<br>
+
+---
+
+<br>
+
+## GitHub / GitFlow Steps:
+
 <br>
 
 1. Create Repository - Eugene McCormack
@@ -31,15 +43,30 @@ Link to Assignemt: https://1drv.ms/w/s!Ap4JPbfie2zTg7I12fy6V3s3fmqqVw?e=MxFjr1
 
 <br>
 
-### Useful Links for GitFlow: 
+---
+
+## Useful Links for GitFlow
+---
 
 <br>
 
-Setup: https://github.com/neiloconnor/git-flow-exercise/blob/master/walkthrough/1-setup.md
+[Assignment Details](https://1drv.ms/w/s!Ap4JPbfie2zTg7I12fy6V3s3fmqqVw?e=MxFjr1)
 
 <br>
 
-Feature Branches: https://github.com/neiloconnor/git-flow-exercise/blob/master/walkthrough/2-feature-branches.md
+[Github Setup](https://github.com/neiloconnor/git-flow-exercise/blob/master/walkthrough/1-setup.md)
+
+<br>
+
+[Branching](https://github.com/neiloconnor/git-flow-exercise/blob/master/walkthrough/2-feature-branches.md)
+
+<br>
+
+[Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+
+<br>
+
+---
 
 
 
