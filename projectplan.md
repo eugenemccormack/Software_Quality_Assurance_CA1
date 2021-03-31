@@ -16,8 +16,9 @@
 
 <br>
 
-* Users Working on a Section together are to "Approve" each others content before "Merging".
+* Users Working on a Section together are to "Approve" each others Finalised Content before "Merging".
 * Comments / Feedback is to be added on "Pull Requests" and also when "Committing" or "Reviewing Changes" before "Approval"
+* Do Not Merge before work is Finalised
 
 
 <br>
@@ -31,14 +32,16 @@
 <br>
 
 1. Create Repository - Eugene McCormack
-2. Inivte users to Repository / Collaborators - Eugene McCormack
-3. Accept Inivation (Email Confirmation / Github) - Everyone
-4. **Fork Repository** - Everyone
-5. Clone Repository to local machine (**forked Copy**) - Everyone
-6. Create a Feature Branch e.g. "Code_Standards" - One User Per Section
-7. Add Content to Feature Branch - Everyone
+2. Invite users to Repository / Collaborators - Eugene McCormack
+3. Accept Invitation (Email Confirmation / Github) - Everyone
+4. Clone Repository to local machine (Original) - Everyone
+5. Create a Branch off develop Branch e.g. "code_standards" - One User Per Section
+6. Create a Branch e.g. off develop Branch off code_standards called code_standards_conor (change name to relevant name) - Each User Per Section
+7. Add Content to Relevant Branch - Everyone
 8. Stage and Commit Changes Made (Do Not Forget Comments / Description) - Everyone
-9. Push Changes to **Fork** - Everyone
+9. Push Changes / Create a Pull Request - Everyone
+10. Add Feedback to Users before "Approval" (2 Users Per Section) - Everyone
+11. Merge when Work is Finalised into Relevant Section - Everyone 
 10. Enjoy
 
 <br>
@@ -67,7 +70,4 @@
 <br>
 
 ---
-
-
-
 
