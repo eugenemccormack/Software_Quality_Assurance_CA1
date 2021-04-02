@@ -11,6 +11,12 @@
 
 <br>
 
+## Github Structure
+
+![alt text](https://i.imgur.com/AKUcNWc.png)
+
+<br>
+
 ---
 ## Rules:
 
