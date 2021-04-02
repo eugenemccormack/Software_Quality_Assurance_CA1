@@ -10,7 +10,7 @@ Code review, also known as Peer Code Review, is a systematic examination of soft
 <br>
 <br>
 
-![Image of Yaktocat](https://i.imgur.com/3JVclYV.png)
+![Image](https://i.imgur.com/3JVclYV.png)
 <br>
 
 ### **Why do we code review?**
@@ -27,11 +27,8 @@ Code review, also known as Peer Code Review, is a systematic examination of soft
 <br>
 
 ### **How to do a code review?**
-Code review, also known as Peer Code Review, is a sysyematic examination of software code. The intention is to find bugs and improve software quaility. Code review allows team members maintain a consistency between design and implementation techniques.
-<br>
 
-<br>
-How to do a code review?
+
 <br>
 
 
@@ -41,8 +38,3 @@ How to do a code review?
 3. https://www.infoq.com/articles/practices-better-code-reviews/
 4.  
 5.  
-<<<<<<< HEAD
-
-=======
- 
->>>>>>> code_reviews
