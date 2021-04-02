@@ -5,8 +5,13 @@
 * Conor Baker
 
 ### **Introduction**
+<br>
+Code review, also known as Peer Code Review, is a sysyematic examination of software code. The intention is to find bugs and improve software quaility. Code review allows team members maintain a consistency between design and implementation techniques.
+<br>
 
-
+<br>
+How to do a code review?
+<br>
 
 
 ## **Articles**
@@ -15,3 +20,4 @@
 3. https://www.infoq.com/articles/practices-better-code-reviews/
 4.  
 5.  
+ 
