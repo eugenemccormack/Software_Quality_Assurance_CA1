@@ -31,16 +31,14 @@ Without coding standards there would be zero structure and cohesion to a project
 <br>
 
 > Coding standards are a process, and not a goal
-
 <br>
-
 
 ### **Coding Standards Document**
 The purpose of a coding standards document is to ensure all code is designed, written adn laid out the same by all contributors. A companys coding standards guidlines and bes practices should be followed by all contributers to code. The purpose is to achieve uniformity. There is no "Right and Wrong" way. Each organization will have their own preferences and techniques that may be unique to the org. Ensuring all contributers are comfortable with the coding standards guidline will result in increase in productivity.
+<br>
 
 ## **Import topics in a Coding Standards Document**
 > Naming conventions
-
 
 Meaningful and understandable variable names helps people follow code they have not written. Avoid the use of digits. Names of functions should breidfly describe the reason for the function as briefly as poissible
 > Indentation
@@ -52,13 +50,14 @@ Functions should be short and precise where possible. Lengthy functions should b
 >Global variables
 
 Limit the use of global variables where possible
-
-
-### **Coding Standards Document**
 <br>
-
+<br>
+### **Coding Standards Document**
 The purpose of a coding standards document is to ensure all code is designed, written, and laid out the same by all contributors. A company’s coding standards guidelines and best practices should be followed by all contributors to code. The purpose is to achieve uniformity. There is no "Right and Wrong" way. Each organization will have their own preferences and techniques that may be unique to the org. Ensuring all contributors are comfortable with the coding standards guideline will result in increase in productivity.
 <br>
+<br>
+### **Conclusion**
+In sum, its vital that we understand the importance of coding standards not as a textbook set of rules, but as an adaptive and contingent method that moulds to the needs of the project. Coding Standards excel based on consistency and while some of its strengths come from a level of stability they still constantly need to be revisited and updated. This leads to an ever-growing process that allows developers to ask, not whether coding standards should be enforced, but instead ask how appropriate certain standards are to their given project. 
 <br>
 ## **Articles**
 1. https://www.sitepoint.com/coding-standards/
