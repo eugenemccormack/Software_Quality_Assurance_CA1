@@ -1,7 +1,7 @@
 # **Code Review**
 
 ## **Authors:**
-* Mark
+* Mark Grogan
 * Conor Baker
 
 ### **Introduction**
@@ -23,10 +23,23 @@ Code review, also known as Peer Code Review, is a systematic examination of soft
 - Ensuring project quality and meeting requirements 
   - Ensures that the scope and requirements of any given software run through the hands of several developers. This serves as a check and balance against different interpretations of the scope of and requirements.
 
+<br>
+
+### **Code Review Best Practices**
+
+- When reviewing areas such as style, structure, design, logic and functionality of code it is very important that you know what to look for. A good practice is to keep certain questions in your head as you analyze the code. These questions may be as simple as, do I understand what the code is doing or is the code doing what it is meant to.
+- If a coder and reviewer arrive at a disagreement, it is important to know who should win the argument. Many would assume that the more experienced person should have the final say, but adopting a culture where the best argument wins is the best practice. When two solutions are just as good the argument should simply be skipped.
+- Never review code for longer than an hour at a time and always review less than 400 lines at a time. After 60 minutes performance is significantly reduced and it will not be your best work. Similarly, when reviewing too many lines at one time, attention to detail is lessened.
+- When carrying out a code review, it is important to keep a good relationship between the coder and reviewer. Feedback should be constructive and praise should be given when earned. Mistakes will be made and teammates will be in the wrong, but don't blame or complain as it will get you nowhere. Reviews should be enjoyable and following these practices will make that possible.
+<br>
+<br>
+
+![Image2](https://i.imgur.com/CQWy3og.png)
 
 <br>
 
-### **How to do a code review?**
+### **Conclusion**
+Code reviews, when done right, can make code reviews more effective and enjoyable while also benefiting code quality, knowledge sharing and team culture. Every project can benefit from code review regardless of the development style and methodology. When it comes to code reviews it is important to remember that no one is the only person who knows a specific part of the code and code reviews help facilitate knowledge sharing across the code base and across the team
 
 
 <br>
@@ -36,5 +49,6 @@ Code review, also known as Peer Code Review, is a systematic examination of soft
 1. https://jserd.springeropen.com/articles/10.1186/s40411-018-0058-0
 2. https://www.researchgate.net/publication/325730783_Modern_code_review_a_case_study_at_google
 3. https://www.infoq.com/articles/practices-better-code-reviews/
-4.  
-5.  
+4.  https://www.perforce.com/blog/qac/9-best-practices-for-code-review
+5.  https://www.infoq.com/articles/practices-better-code-reviews/
+ 
