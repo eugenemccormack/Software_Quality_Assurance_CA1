@@ -1,9 +1,17 @@
-# **Coding standards**
-<br>
+
+# **Coding standards** 
+
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-VNfkKRh9nSI/X5ZknrraRRI/AAAAAAAAASw/g7aijFhOGEcVrY2zqth39kvtPAG0POiXgCPcBGAYYCw/w640-h360/Blogging%2BTips%2BLinkedIn%2BPost%2BHeader%2B%25281%2529.png" alt="Image header"/>
+</p>
+
+
 
 ## **Authors:**
 * Patrick Corbett
 * Conor Baker 
+
+<br>
 
 ### **Introduction**
 <br>
@@ -30,6 +38,21 @@ Without coding standards there would be zero structure and cohesion to a project
 ### **Coding Standards Document**
 The purpose of a coding standards document is to ensure all code is designed, written adn laid out the same by all contributors. A companys coding standards guidlines and bes practices should be followed by all contributers to code. The purpose is to achieve uniformity. There is no "Right and Wrong" way. Each organization will have their own preferences and techniques that may be unique to the org. Ensuring all contributers are comfortable with the coding standards guidline will result in increase in productivity.
 
+## **Import topics in a Coding Standards Document**
+> Naming conventions
+
+
+Meaningful and understandable variable names helps people follow code they have not written. Avoid the use of digits. Names of functions should breidfly describe the reason for the function as briefly as poissible
+> Indentation
+
+Proper indentation helps inproves the structure of the code. It is also more pleasing to the eye allowing readers more ease.
+>Length of Functions
+
+Functions should be short and precise where possible. Lengthy functions should be split into smaller tasks
+>Global variables
+
+Limit the use of global variables where possible
+
 
 ### **Coding Standards Document**
 <br>
@@ -42,3 +65,4 @@ The purpose of a coding standards document is to ensure all code is designed, wr
 2. https://levelup.gitconnected.com/write-better-code-with-coding-standards-546faf3fd4d1
 3. https://blog.acromedia.com/coding-standards-and-development-a-general-overview
 4. https://softwareengineering.stackexchange.com/questions/196706/creating-a-coding-standards-document#:~:text=A%20coding%20standards%20document's%20purpose,to%20read%20someone%20else's%20style.
+5. https://www.geeksforgeeks.org/coding-standards-and-guidelines/#:~:text=A%20coding%20standard%20gives%20a,helps%20to%20detect%20error%20easily.
