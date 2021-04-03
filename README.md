@@ -49,5 +49,5 @@ Code reviews, when done right, can make code reviews more effective and enjoyabl
 2. https://www.researchgate.net/publication/325730783_Modern_code_review_a_case_study_at_google
 3. https://www.infoq.com/articles/practices-better-code-reviews/
 4.  https://www.perforce.com/blog/qac/9-best-practices-for-code-review
-5.  https://www.infoq.com/articles/practices-better-code-reviews/
+5.  https://www.freecodecamp.org/news/code-review-the-ultimate-guide-aa45c358bbf5/
  
