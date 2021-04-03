@@ -1,9 +1,19 @@
-# Project Plan
+<p align = "center">
+  <img width="400" height="300" src="https://volunteerfingal.ie/wp-content/uploads/elementor/thumbs/business-planning-background-1600x900-oaygn13acu8v9zpolfmo8xx5052qjdkdjds9b4xo5k.png">
+</p>
 
-## Content Owners:
+
+# <center> Project Plan </center>
 
 <br>
 
+---
+## <center> Content Owners </center>
+---
+
+<br>
+
+* Overall Introduction - Eugene
 * Project Plan: Eugene & Paddy
 * Task Estimation in Scrum: Eugene & Mark
 * Coding Standards: Conor & Paddy
@@ -12,22 +22,21 @@
 <br>
 
 ---
-## Rules:
+## <center> Rules </center>
+---
 
 <br>
 
-* Users Working on a Section together are to "Approve" each others Finalised Content before "Merging".
+* Users Working on a Section together are to "Approve" each other's Finalised Content before "Merging".
 * Comments / Feedback is to be added on "Pull Requests" and also when "Committing" or "Reviewing Changes" before "Approval"
-* Do Not Merge before work is Finalised
+* Do Not Merge before work is Finalised and Approved
 
 
 <br>
 
 ---
-
-<br>
-
-## GitHub / GitFlow Steps:
+## <center> GitHub / GitFlow Steps </center>
+---
 
 <br>
 
@@ -47,8 +56,7 @@
 <br>
 
 ---
-
-## Useful Links for GitFlow
+## <center> Useful Links </center>
 ---
 
 <br>
