@@ -26,7 +26,7 @@ The most commonly used Task Estimation technique in Scrum is the use of story po
 <br>
 
 <br>
-Story points are generally based around the Fibonacci sequence.  The Fibonacci sequence is a number sequence where every number is the sum of the previous two numbers, ie: 0, 1, 2, 3, 5, 8, 13, 21 so on. This technique is known as Planning Poker. In Scrum Planning Poker the Scrum team works to create accurate estimates. The team will take a task from the backlog and team member will mentally calculate an estimate. Each team member will then hold up a card with their estimate.
+Story points are generally based around the Fibonacci sequence.  The Fibonacci sequence is a number sequence where every number is the sum of the previous two numbers, ie: 0, 1, 2, 3, 5, 8, 13, 21 and so on. This technique is known as Planning Poker. In Scrum Planning Poker the Scrum team works to create accurate estimates. The team will take a task from the backlog and team members will mentally calculate an estimate. Each team member will then hold up a card with their estimate.
 <br>
 
 ## **Articles**
