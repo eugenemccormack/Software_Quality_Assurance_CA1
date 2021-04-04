@@ -33,6 +33,7 @@ Code review, also known as Peer Code Review, is a systematic examination of soft
 - When carrying out a code review, it is important to keep a good relationship between the coder and reviewer. Feedback should be constructive and praise should be given when earned. Mistakes will be made and teammates will be in the wrong, but don't blame or complain as it will get you nowhere. Reviews should be enjoyable and following these practices will make that possible.
 <br>
 <br> 
+
 ![Image2](https://i.imgur.com/CQWy3og.png)
 
 <br>
@@ -49,5 +50,5 @@ Code reviews, when done right, can make code reviews more effective and enjoyabl
 2. https://www.researchgate.net/publication/325730783_Modern_code_review_a_case_study_at_google
 3. https://www.infoq.com/articles/practices-better-code-reviews/
 4.  https://www.perforce.com/blog/qac/9-best-practices-for-code-review
-5.  https://www.infoq.com/articles/practices-better-code-reviews/
+5.  https://www.freecodecamp.org/news/code-review-the-ultimate-guide-aa45c358bbf5/
  
