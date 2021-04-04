@@ -279,10 +279,20 @@ Code reviews, when done right, can make code reviews more effective and enjoyabl
 <br>
 
 >Coding standards are collections of coding rules, guidelines, and best practices. 
+=======
+# Project Plan
 
-These Standards are a set of streamlined rules that must be followed when developing code. This allows projects maintain structure and consistency while multiple developers working on them. These rules enforce the developers to maintain a well-defined and standard style of code. These rules and normally made by the organization to best suit their type of software they are developing. 
+## Content Owners:
 
 <br>
+
+* Project Plan: Eugene & Paddy
+* Task Estimation in Scrum: Eugene & Mark
+* Coding Standards: Conor & Paddy
+* Code Reviews: Conor & Mark
+
+<br>
+
 <br>
 
 <p align="center">
@@ -300,9 +310,64 @@ These Standards are a set of streamlined rules that must be followed when develo
 Without coding standards there would be zero structure and cohesion to a project, this would impede the developer’s ability to work as a team and encourage bugs and errors when work is delegated to multiple developers. However, it is important to remember that 
 <br>
 > Coding standards are a process, and not a goal
+=======
+
+---
+## Rules:
+
 <br>
 
-While it is important to enforce these rules, it is also key to understand that they are not and end goal to strive for. Instead, coding standards should be looked at as a process that Is developed over the course of development and adapted to suit the needs of the project in hand. It is unlikely that any two projects would have the exact same coding standards. While some standards are common sense and used in most projects they could just as easily be replaced by others overtime depending on the need of the project. With this in mind we should consider that while all coding standards are important not all are implacable and should be enforced in every project.
+* Users Working on a Section together are to "Approve" each others content before "Merging".
+* Comments / Feedback is to be added on "Pull Requests" and also when "Committing" or "Reviewing Changes" before "Approval"
+
+
+<br>
+
+---
+
+<br>
+
+## GitHub / GitFlow Steps:
+
+<br>
+
+1. Create Repository - Eugene McCormack
+2. Inivte users to Repository / Collaborators - Eugene McCormack
+3. Accept Inivation (Email Confirmation / Github) - Everyone
+4. **Fork Repository** - Everyone
+5. Clone Repository to local machine (**forked Copy**) - Everyone
+6. Create a Feature Branch e.g. "Code_Standards" - One User Per Section
+7. Add Content to Feature Branch - Everyone
+8. Stage and Commit Changes Made (Do Not Forget Comments / Description) - Everyone
+9. Push Changes to **Fork** - Everyone
+10. Enjoy
+
+<br>
+
+---
+
+## Useful Links for GitFlow
+---
+
+<br>
+
+[Assignment Details](https://1drv.ms/w/s!Ap4JPbfie2zTg7I12fy6V3s3fmqqVw?e=MxFjr1)
+
+<br>
+
+[Github Setup](https://github.com/neiloconnor/git-flow-exercise/blob/master/walkthrough/1-setup.md)
+
+<br>
+
+[Branching](https://github.com/neiloconnor/git-flow-exercise/blob/master/walkthrough/2-feature-branches.md)
+
+<br>
+
+[Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+
+<br>
+
+---
 
 <br>
 
@@ -352,6 +417,7 @@ In sum, its vital that we understand the importance of coding standards not as a
 ---
 
 <br>
+=======
 
 1. [Why You Need Coding Standards](https://www.sitepoint.com/coding-standards/) 
 2. [Write Better Code with Coding Standards](https://levelup.gitconnected.com/write-better-code-with-coding-standards-546faf3fd4d1)
@@ -361,4 +427,7 @@ In sum, its vital that we understand the importance of coding standards not as a
 
 <br>
 
+
 ---
+=======
+
