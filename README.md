@@ -143,3 +143,4 @@ In conclusion, task estimation is a vital step in the scrum process. When carrie
 5. [What Scrum Says About Estimates](https://www.scrum.org/resources/blog/what-scrum-says-about-estimates)
 
 
+
