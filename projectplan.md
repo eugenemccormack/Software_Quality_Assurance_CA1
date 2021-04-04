@@ -99,8 +99,6 @@
 * Communicate more as sometimes we Confused the Process as a Team.
 * Have all Team members Submit Approvals for each Topic before Merging. This would have helped to alleviate the Merging Conflicts through a shared Feedback / Approval Process.
 * Practice GitFlow more to prevent Merging into incorrect Branches.
-* Slowed Down - This would have prevented Random Errors / Issues.
+* **Slowed Down - This would have prevented Random Errors / Issues.**
 * Pull - To Local Machine should have been conducted more as sometimes the Branches were out of Sync.
-
-
 
