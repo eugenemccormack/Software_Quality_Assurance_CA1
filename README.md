@@ -33,6 +33,7 @@ Code review, also known as Peer Code Review, is a systematic examination of soft
 - When carrying out a code review, it is important to keep a good relationship between the coder and reviewer. Feedback should be constructive and praise should be given when earned. Mistakes will be made and teammates will be in the wrong, but don't blame or complain as it will get you nowhere. Reviews should be enjoyable and following these practices will make that possible.
 <br>
 <br> 
+
 ![Image2](https://i.imgur.com/CQWy3og.png)
 
 <br>
