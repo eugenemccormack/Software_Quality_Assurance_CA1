@@ -87,6 +87,12 @@ The Scrum Team have Task Estimation Meetings where they estimate the effort requ
 
 <br>
 
+<p align = "center">
+  <img width="600" height="300" src="https://d2o2utebsixu4k.cloudfront.net/media/images/c4aa8567-c70f-4966-8af3-e1ef56393f4c.png">
+</p>
+
+
+
 The most commonly used Task Estimation technique in Scrum is the use of story points. Story points are measurement units for expressing an estimate of the effort required to fully implement a task. There is no set value for a story point. The Scrum Team decides on a value for the story points, whether it be an hour, a day or a week. Story points help teams set goals for a period of time and builds unity and commitment to the solution.
 
 <br>
@@ -141,6 +147,3 @@ In conclusion, task estimation is a vital step in the scrum process. When carrie
 3. [Story points and estimation](https://www.atlassian.com/agile/project-management/estimation)
 4. [What is Agile Estimation?](https://www.visual-paradigm.com/scrum/what-is-agile-estimation/)
 5. [What Scrum Says About Estimates](https://www.scrum.org/resources/blog/what-scrum-says-about-estimates)
-
-
-
