@@ -122,6 +122,15 @@ The time required to complete a Task can differ depending on the developer’s l
 <br>
 
 ---
+## <center> **Conclusion** </center>
+---
+<br>
+
+In conclusion, task estimation is a vital step in the scrum process. When carried out correctly, it enables teams to have clear goals and set objectives with time frames to reach them. Task estimation involves everyone and decisions are made together, which is very important when working in a team.
+
+<br>
+
+---
 ## <center> **Articles** </center>
 ---
 
@@ -132,4 +141,6 @@ The time required to complete a Task can differ depending on the developer’s l
 3. [Story points and estimation](https://www.atlassian.com/agile/project-management/estimation)
 4. [What is Agile Estimation?](https://www.visual-paradigm.com/scrum/what-is-agile-estimation/)
 5. [What Scrum Says About Estimates](https://www.scrum.org/resources/blog/what-scrum-says-about-estimates)
+
+
 
