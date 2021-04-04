@@ -3,12 +3,12 @@
 </p>
 
 
-# <center> Project Plan </center>
+# <center> **Project Plan** </center>
 
 <br>
 
 ---
-## <center> Content Owners </center>
+## <center> **Content Owners** </center>
 ---
 
 <br>
@@ -21,14 +21,21 @@
 
 <br>
 
-## Github Structure
+---
+## <center> **Github Structure** </center>
+---
 
-![alt text](https://i.imgur.com/AKUcNWc.png)
+<br>
+
+<p align = "center">
+  <img width="1000" height="400" src="https://i.imgur.com/AKUcNWc.png">
+</p>
+
 
 <br>
 
 ---
-## <center> Rules </center>
+## <center> **Rules** </center>
 ---
 
 <br>
@@ -41,7 +48,7 @@
 <br>
 
 ---
-## <center> GitHub / GitFlow Steps </center>
+## <center> **GitHub / GitFlow Steps** </center>
 ---
 
 <br>
@@ -62,7 +69,7 @@
 <br>
 
 ---
-## <center> Useful Links </center>
+## <center> **Useful Links** </center>
 ---
 
 <br>
@@ -84,3 +91,16 @@
 <br>
 
 ---
+## <center> **What we would do Differently as a Team Next Time** </center>
+---
+
+<br>
+
+* Communicate more as sometimes we Confused the Process as a Team.
+* Have all Team members Submit Approvals for each Topic before Merging. This would have helped to alleviate the Merging Conflicts through a shared Feedback / Approval Process.
+* Practice GitFlow more to prevent Merging into incorrect Branches.
+* Slowed Down - This would have prevented Random Errors / Issues.
+* Pull - To Local Machine should have been conducted more as sometimes the Branches were out of Sync.
+
+
+
