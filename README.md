@@ -21,20 +21,26 @@
 These Standards are a set of streamlined rules that must be followed when developing code. This allows projects maintain structure and consistency while multiple developers working on them. These rules enforce the developers to maintain a well-defined and standard style of code. These rules and normally made by the organization to best suit their type of software they are developing. 
 <br>
 <br>
+
 ![Image](https://i.imgur.com/GhMggNe.png)
+
 <br>
 <br>
+
 ### **Why are coding standards important and should they always be enforced**
-<br>
+
 Without coding standards there would be zero structure and cohesion to a project, this would impede the developer’s ability to work as a team and encourage bugs and errors when work is delegated to multiple developers. However, it is important to remember that 
 <br>
 <br>
 
 > Coding standards are a process, and not a goal
+
 <br>
 
+
 ### **Coding Standards Document**
-The purpose of a coding standards document is to ensure all code is designed, written adn laid out the same by all contributors. A companys coding standards guidlines and bes practices should be followed by all contributers to code. The purpose is to achieve uniformity. There is no "Right and Wrong" way. Each organization will have their own preferences and techniques that may be unique to the org. Ensuring all contributers are comfortable with the coding standards guidline will result in increase in productivity.
+The purpose of a coding standards document is to ensure all code is designed, written, and laid out the same by all contributors. A company’s coding standards guidelines and best practices should be followed by all contributors to code. The purpose is to achieve uniformity. There is no "Right and Wrong" way. Each organization will have their own preferences and techniques that may be unique to the org. Ensuring all contributors are comfortable with the coding standards guideline will result in increase in productivity.
+
 <br>
 
 ## **Import topics in a Coding Standards Document**
@@ -50,14 +56,12 @@ Functions should be short and precise where possible. Lengthy functions should b
 >Global variables
 
 Limit the use of global variables where possible
+
 <br>
-<br>
-### **Coding Standards Document**
-The purpose of a coding standards document is to ensure all code is designed, written, and laid out the same by all contributors. A company’s coding standards guidelines and best practices should be followed by all contributors to code. The purpose is to achieve uniformity. There is no "Right and Wrong" way. Each organization will have their own preferences and techniques that may be unique to the org. Ensuring all contributors are comfortable with the coding standards guideline will result in increase in productivity.
-<br>
-<br>
+
 ### **Conclusion**
 In sum, its vital that we understand the importance of coding standards not as a textbook set of rules, but as an adaptive and contingent method that moulds to the needs of the project. Coding Standards excel based on consistency and while some of its strengths come from a level of stability they still constantly need to be revisited and updated. This leads to an ever-growing process that allows developers to ask, not whether coding standards should be enforced, but instead ask how appropriate certain standards are to their given project. 
+<br>
 <br>
 ## **Articles**
 1. https://www.sitepoint.com/coding-standards/
